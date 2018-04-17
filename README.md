@@ -1,5 +1,7 @@
 # Void's Custom Diablo 2 Resurgence Config
 
+_Eventually, this readme will not look like shit_
+
 ## Philosophy
 Config should be systematic, not all over the place
 
@@ -24,5 +26,8 @@ Bases = \<B\>
   
 Items of note = \<I\>
   
-Alchemy bases = \<A\>  
+Alchemy bases = \<A\>
+
+## Yo, what's the plan?
+Probably to rehash the config a bit, reevaluate some map colors, and remove unneeded, commented-out lines.
 
